@@ -1,2 +1,4 @@
 Hi!
 This is a test for Git
+Second test
+Hope it works!
